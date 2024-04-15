@@ -1,0 +1,12 @@
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\bin\Debug\net8.0\Topstyle.Domain.deps.json
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\bin\Debug\net8.0\Topstyle.Domain.dll
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\bin\Debug\net8.0\Topstyle.Domain.pdb
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\Topstyle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\Topstyle.Domain.AssemblyInfoInputs.cache
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\Topstyle.Domain.AssemblyInfo.cs
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\Topstyle.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\Topstyle.Domain.sourcelink.json
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\Topstyle.Domain.dll
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\refint\Topstyle.Domain.dll
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\Topstyle.Domain.pdb
+C:\Users\Mathias\source\repos\TopStyleApi\Topstyle.Domain\obj\Debug\net8.0\ref\Topstyle.Domain.dll
