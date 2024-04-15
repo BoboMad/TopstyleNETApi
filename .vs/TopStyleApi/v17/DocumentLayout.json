@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|solutionrelative:topstyleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Topstyle.Core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Domain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Domain\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|solutionrelative:topstyleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyleapi\\extensions\\swaggerexstensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|solutionrelative:topstyleapi\\extensions\\swaggerexstensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\WebApplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyleapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|solutionrelative:topstyleapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,14 +71,6 @@
       "RelativeMoniker": "D:0:0:{42F40C1C-69A7-4D9A-8978-E1230EF77375}|ClassLibrary1\\Topsstyle.Core.csproj|solutionrelative:classlibrary1\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42F40C1C-69A7-4D9A-8978-E1230EF77375}|ClassLibrary1\\Topsstyle.Core.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\classlibrary1\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42F40C1C-69A7-4D9A-8978-E1230EF77375}|ClassLibrary1\\Topsstyle.Core.csproj|solutionrelative:classlibrary1\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|solutionrelative:topstyleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42F40C1C-69A7-4D9A-8978-E1230EF77375}|ClassLibrary1\\Topsstyle.Core.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\classlibrary1\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42F40C1C-69A7-4D9A-8978-E1230EF77375}|ClassLibrary1\\Topsstyle.Core.csproj|solutionrelative:classlibrary1\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,20 +103,12 @@
       "RelativeMoniker": "D:0:0:{3410A664-716E-46D8-A399-15A7F1A6BA07}|Topstyle.Data\\Topstyle.Data.csproj|solutionrelative:topstyle.data\\migrations\\20240414004917_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|solutionrelative:topstyleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyleapi\\extensions\\contextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|solutionrelative:topstyleapi\\extensions\\contextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyleapi\\extensions\\swaggerexstensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{454F4D68-ED34-4592-B378-885249F26BB1}|TopStyleApi\\TopStyleApi.csproj|solutionrelative:topstyleapi\\extensions\\swaggerexstensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3410A664-716E-46D8-A399-15A7F1A6BA07}|Topstyle.Data\\Topstyle.Data.csproj|c:\\users\\mathias\\source\\repos\\topstyleapi\\topstyle.data\\topstyle.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -126,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,20 +150,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "ClassLibrary1\\Services\\Interfaces\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:27:40.923Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Core\\appsettings.json",
+              "RelativeDocumentMoniker": "Topstyle.Core\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Core\\appsettings.json",
+              "RelativeToolTip": "Topstyle.Core\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T22:19:26.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Domain\\appsettings.json",
+              "RelativeDocumentMoniker": "Domain\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Domain\\appsettings.json",
+              "RelativeToolTip": "Domain\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T22:19:18.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Domain\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Domain\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Domain\\appsettings.Development.json",
+              "RelativeToolTip": "Domain\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T22:19:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T22:15:57.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:14:49.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "TopStyleApi\\Controllers\\UserController.cs",
@@ -160,33 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\UserRepo.cs",
-              "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Implementations\\UserRepo.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\UserRepo.cs",
-              "RelativeToolTip": "Topstyle.Data\\Repos\\Implementations\\UserRepo.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAkwCwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:47:25.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\ProductRepo.cs",
-              "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Implementations\\ProductRepo.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\ProductRepo.cs",
-              "RelativeToolTip": "Topstyle.Data\\Repos\\Implementations\\ProductRepo.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAwwCYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:15:57.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Program.cs",
               "RelativeDocumentMoniker": "TopStyleApi\\Program.cs",
@@ -199,33 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "ClassLibrary1\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:27:26.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\UserService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Implementations\\UserService.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\UserService.cs",
-              "RelativeToolTip": "ClassLibrary1\\Services\\Implementations\\UserService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAkwCoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:31:23.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Interfaces\\IUserRepo.cs",
               "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Interfaces\\IUserRepo.cs",
@@ -233,12 +249,11 @@
               "RelativeToolTip": "Topstyle.Data\\Repos\\Interfaces\\IUserRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:34:53.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T11:34:53.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "IOrderRepo.cs",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Interfaces\\IOrderRepo.cs",
               "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Interfaces\\IOrderRepo.cs",
@@ -246,12 +261,11 @@
               "RelativeToolTip": "Topstyle.Data\\Repos\\Interfaces\\IOrderRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:35:03.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T11:35:03.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "IProductRepo.cs",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Interfaces\\IProductRepo.cs",
               "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Interfaces\\IProductRepo.cs",
@@ -259,181 +273,11 @@
               "RelativeToolTip": "Topstyle.Data\\Repos\\Interfaces\\IProductRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:35:42.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T11:35:42.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "TopStyleApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "TopStyleApi\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:27:56.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\OrderService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Implementations\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\OrderService.cs",
-              "RelativeToolTip": "ClassLibrary1\\Services\\Implementations\\OrderService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA5wCQAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:48:36.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "TopStyleApi\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "TopStyleApi\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:26:56.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OrderRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\OrderRepo.cs",
-              "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Implementations\\OrderRepo.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\OrderRepo.cs",
-              "RelativeToolTip": "Topstyle.Data\\Repos\\Implementations\\OrderRepo.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowCoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:44:46.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\ProductService.cs",
-              "RelativeToolTip": "ClassLibrary1\\Services\\Implementations\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAtwCMAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:59:56.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "ClassLibrary1\\Services\\Interfaces\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T17:28:03.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20240414004917_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004917_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Topstyle.Data\\Migrations\\20240414004917_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004917_InitialMigration.cs",
-              "RelativeToolTip": "Topstyle.Data\\Migrations\\20240414004917_InitialMigration.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T00:49:17.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TopstyleContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Contexts\\TopstyleContext.cs",
-              "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Contexts\\TopstyleContext.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Contexts\\TopstyleContext.cs",
-              "RelativeToolTip": "Topstyle.Data\\Repos\\Contexts\\TopstyleContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T23:29:06.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20240414004021_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs",
-              "RelativeToolTip": "Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T00:40:22.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\User.cs",
-              "RelativeDocumentMoniker": "Topstyle.Domain\\Entites\\User.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\User.cs",
-              "RelativeToolTip": "Topstyle.Domain\\Entites\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:34:01.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Order.cs",
-              "RelativeDocumentMoniker": "Topstyle.Domain\\Entites\\Order.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Order.cs",
-              "RelativeToolTip": "Topstyle.Domain\\Entites\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:34:29.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Product.cs",
-              "RelativeDocumentMoniker": "Topstyle.Domain\\Entites\\Product.cs",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Product.cs",
-              "RelativeToolTip": "Topstyle.Domain\\Entites\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:31:19.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "TopStyleApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\TopStyleApi.csproj",
-              "RelativeDocumentMoniker": "TopStyleApi\\TopStyleApi.csproj",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\TopStyleApi.csproj",
-              "RelativeToolTip": "TopStyleApi\\TopStyleApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T11:03:22.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\appsettings.json",
               "RelativeDocumentMoniker": "TopStyleApi\\appsettings.json",
@@ -446,20 +290,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Topstyle.Data",
-              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Topstyle.Data.csproj",
-              "RelativeDocumentMoniker": "Topstyle.Data\\Topstyle.Data.csproj",
-              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Topstyle.Data.csproj",
-              "RelativeToolTip": "Topstyle.Data\\Topstyle.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-14T00:00:07.055Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:31:23.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 5,
               "Title": "SwaggerExstensions.cs",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Extensions\\SwaggerExstensions.cs",
               "RelativeDocumentMoniker": "TopStyleApi\\Extensions\\SwaggerExstensions.cs",
@@ -472,7 +315,211 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:27:26.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Implementations\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\ProductRepo.cs",
+              "RelativeToolTip": "Topstyle.Data\\Repos\\Implementations\\ProductRepo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:15:57.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Implementations\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\UserRepo.cs",
+              "RelativeToolTip": "Topstyle.Data\\Repos\\Implementations\\UserRepo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:47:25.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TopStyleApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TopStyleApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:27:56.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Implementations\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Implementations\\OrderService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:48:36.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TopStyleApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TopStyleApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:26:56.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Implementations\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Implementations\\OrderRepo.cs",
+              "RelativeToolTip": "Topstyle.Data\\Repos\\Implementations\\OrderRepo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:44:46.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwCMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:59:56.872Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:28:03.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240414004917_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004917_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Topstyle.Data\\Migrations\\20240414004917_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004917_InitialMigration.cs",
+              "RelativeToolTip": "Topstyle.Data\\Migrations\\20240414004917_InitialMigration.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T00:49:17.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TopstyleContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Contexts\\TopstyleContext.cs",
+              "RelativeDocumentMoniker": "Topstyle.Data\\Repos\\Contexts\\TopstyleContext.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Repos\\Contexts\\TopstyleContext.cs",
+              "RelativeToolTip": "Topstyle.Data\\Repos\\Contexts\\TopstyleContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:29:06.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240414004021_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs",
+              "RelativeToolTip": "Topstyle.Data\\Migrations\\20240414004021_InitialMigration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T00:40:22.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "Topstyle.Domain\\Entites\\User.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\User.cs",
+              "RelativeToolTip": "Topstyle.Domain\\Entites\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:34:01.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Order.cs",
+              "RelativeDocumentMoniker": "Topstyle.Domain\\Entites\\Order.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Order.cs",
+              "RelativeToolTip": "Topstyle.Domain\\Entites\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:34:29.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "Topstyle.Domain\\Entites\\Product.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Product.cs",
+              "RelativeToolTip": "Topstyle.Domain\\Entites\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:31:19.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TopStyleApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\TopStyleApi.csproj",
+              "RelativeDocumentMoniker": "TopStyleApi\\TopStyleApi.csproj",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\TopStyleApi.csproj",
+              "RelativeToolTip": "TopStyleApi\\TopStyleApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T11:03:22.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Topstyle.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Topstyle.Data.csproj",
+              "RelativeDocumentMoniker": "Topstyle.Data\\Topstyle.Data.csproj",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Data\\Topstyle.Data.csproj",
+              "RelativeToolTip": "Topstyle.Data\\Topstyle.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T00:00:07.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "ContextExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\TopStyleApi\\Extensions\\ContextExtensions.cs",
               "RelativeDocumentMoniker": "TopStyleApi\\Extensions\\ContextExtensions.cs",
@@ -480,12 +527,11 @@
               "RelativeToolTip": "TopStyleApi\\Extensions\\ContextExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T00:13:11.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T00:13:11.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\Topstyle.Domain\\Entites\\Category.cs",
               "RelativeDocumentMoniker": "Topstyle.Domain\\Entites\\Category.cs",
@@ -493,12 +539,11 @@
               "RelativeToolTip": "Topstyle.Domain\\Entites\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:33:49.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T11:33:49.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Topsstyle.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\TopStyleApi\\ClassLibrary1\\Topsstyle.Core.csproj",
               "RelativeDocumentMoniker": "ClassLibrary1\\Topsstyle.Core.csproj",
@@ -506,8 +551,7 @@
               "RelativeToolTip": "ClassLibrary1\\Topsstyle.Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T11:16:15.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T11:16:15.171Z"
             }
           ]
         }

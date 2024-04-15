@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Topsstyle.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53c07f955282c88e206bdbac790fed0310b133ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a48897b1b5a104e21d11327b6f998f38ebd8491")]
 [assembly: System.Reflection.AssemblyProductAttribute("Topsstyle.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Topsstyle.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
